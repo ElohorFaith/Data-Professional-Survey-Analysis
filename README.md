@@ -17,7 +17,7 @@ Power BI analysis of data professionals survey dataset, exploring trends in role
 - Data Scientists and Data Engineers tend to earn higher salaries
 - Python is the most widely used Programming Language of Data Professionals.
 - Many respondents reported moderate difficulty in breaking into Data.
-- Less than Average respondents reported unsatisfaction with their salary
+- Less than Average respondents reported dissatisfaction with their salary
 - More than Average respondents reported satisfaction with Work/Life balance.
 
 # Files
